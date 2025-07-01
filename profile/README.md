@@ -21,16 +21,6 @@ Welcome to the **porsche-code** organization! This org embodies Porsche’s comm
 
 ---
 
-## 🚚 Migrating from GitLab
-To support new members, we offer comprehensive assistance for migrating existing GitLab resources into the porsche-code organization. Our goal is to ensure a smooth transition and seamless integration of all projects and workflows.
-
-- ⚒️ Tools and scripts available in the [Migration Repository](https://github.com/porsche-code/migrate-gl-to-gh)
-- 📚 Step-by-step [migration guides and best practices](https://skyway.porsche.com/confluence/x/aQ-Ccw)
-- 🤝 Support from the migration team for any questions or issues
-- 🔄 Ensuring continuity of CI/CD pipelines and project settings
-
----
-
 ## 🤝 Contributing
 
 We welcome contributions that align with Porsche’s values of quality and innovation. Please follow our [Contribution Upstream](https://opensource.porsche.com/docs/contributing) to learn how to contribute to open-source projects.
