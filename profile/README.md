@@ -24,16 +24,3 @@ Welcome to the **porsche-code** organization! This org embodies Porsche’s comm
 We welcome contributions that align with Porsche’s values of quality and innovation. Please follow our [Contribution Upstream](https://opensource.porsche.com/docs/contributing) to learn how to contribute to open-source projects.
 
 ---
-
-## 📚 Documentation
-
-As starting point we recommend our [GitHub Service Page](https://gearbox.porsche.com/it-services-tools/developer-workbench/github/).
-For detailed documentation, visit our [Wiki](https://skyway.porsche.com/confluence/x/IS_yWQ).
-
----
-
-## 📞 Support
-
-For support, please contact us via our [support portal](https://skyway.porsche.com/jira/plugins/servlet/desk/portal/2939/create/22067).
-
----
